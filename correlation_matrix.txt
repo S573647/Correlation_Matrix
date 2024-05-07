@@ -1,0 +1,5 @@
+                                      Price  Storage Capacity (cu.ft.)  Energy consumption KWH/YR.  Energy efficiency (kWh/YR/cu.ft.)
+Price                              1.000000                  -0.040671                    0.123753                           0.123783
+Storage Capacity (cu.ft.)         -0.040671                   1.000000                    0.130492                          -0.409956
+Energy consumption KWH/YR.         0.123753                   0.130492                    1.000000                           0.847458
+Energy efficiency (kWh/YR/cu.ft.)  0.123783                  -0.409956                    0.847458                           1.000000
